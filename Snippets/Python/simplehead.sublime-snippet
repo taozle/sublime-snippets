@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+# -*- coding: utf-8 -*-
+"""
+    ${1:project}.${2:module}
+    ~~~~~~~~~
+
+    ${3:description}
+
+    :copyright: (c) 2015 by Taoz.
+    :license: BSD, see LICENSE for more details.
+"""
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>simpleheader</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
